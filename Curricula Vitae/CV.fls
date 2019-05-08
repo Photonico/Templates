@@ -1,9 +1,9 @@
-PWD d:/About/Curricula Vitae
+PWD d:/Temples/Curricula Vitae
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/About/Curricula Vitae/CV.tex
-OUTPUT d:/About/Curricula Vitae/CV.log
+INPUT d:/Temples/Curricula Vitae/CV.tex
+OUTPUT d:/Temples/Curricula Vitae/CV.log
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo
@@ -73,9 +73,9 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/mweights/mweights.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/mweights/mweights.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/helvet.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/helvet.sty
-INPUT d:/About/Curricula Vitae/CV.aux
-INPUT d:/About/Curricula Vitae/CV.aux
-OUTPUT d:/About/Curricula Vitae/CV.aux
+INPUT d:/Temples/Curricula Vitae/CV.aux
+INPUT d:/Temples/Curricula Vitae/CV.aux
+OUTPUT d:/Temples/Curricula Vitae/CV.aux
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2018/texmf-dist/tex/latex/crimson/OT1Crimson-TLF.fd
@@ -100,12 +100,12 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-ot1.tfm
-OUTPUT d:/About/Curricula Vitae/CV.pdf
+OUTPUT d:/Temples/Curricula Vitae/CV.pdf
 INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ot1.tfm
-INPUT d:/About/Curricula Vitae/CV.aux
+INPUT d:/Temples/Curricula Vitae/CV.aux
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc

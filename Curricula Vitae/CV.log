@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.10)  7 MAY 2019 05:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.10)  9 MAY 2019 01:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/About/Curricula Vitae/CV.tex"
-(d:/About/Curricula Vitae/CV.tex
+**"d:/Temples/Curricula Vitae/CV.tex"
+(d:/Temples/Curricula Vitae/CV.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
@@ -336,33 +336,33 @@ Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS)
 LaTeX Warning: Unused global option(s):
     [utf8].
 
-(d:/About/Curricula Vitae/CV.aux)
+(d:/Temples/Curricula Vitae/CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
  (c:/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Try loading font information for OT1+Crimson-TLF on input line 41.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+Crimson-TLF on input line 40.
  (c:/texlive/2018/texmf-dist/tex/latex/crimson/OT1Crimson-TLF.fd
 File: OT1Crimson-TLF.fd 2016/02/19 (autoinst) Font definitions for OT1/Crimson-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 40.
  (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count119
@@ -416,76 +416,76 @@ File: fc-english.def 2016/01/12
 \c@mv@tabular=\count125
 \c@mv@boldtabular=\count126
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 45.
+(Font)              scaled to size 12.0pt on input line 44.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 45.
+(Font)              scaled to size 24.88pt on input line 44.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 50.
+(Font)              scaled to size 12.0pt on input line 49.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
 
-Overfull \hbox (35.24236pt too wide) in paragraph at lines 54--76
+Underfull \hbox (badness 10000) in paragraph at lines 69--73
+
+ []
+
+
+Overfull \hbox (35.24236pt too wide) in paragraph at lines 53--75
 [][] [] []
  []
 
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 81.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 80.
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 81--82
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 80--81
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 104--105
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 103--104
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 120--121
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 119--120
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 168--169
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 167--168
 [][][][][][][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 180.
+(Font)              <12> on input line 179.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 180.
+(Font)              <8> on input line 179.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 180.
+(Font)              <6> on input line 179.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 180.
+(Font)              scaled to size 8.0pt on input line 179.
 
-Overfull \hbox (47.77315pt too wide) in paragraph at lines 171--186
+Overfull \hbox (47.77315pt too wide) in paragraph at lines 170--185
 [][] [] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 193--194
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 192--193
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/sl' in size <12> not available
-(Font)              Font shape `OT1/Crimson-TLF/m/it' tried instead on input line 205.
+(Font)              Font shape `OT1/Crimson-TLF/m/it' tried instead on input line 204.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 205.
+(Font)              scaled to size 12.0pt on input line 204.
 
 Overfull \hbox (8.54279pt too wide) has occurred while \output is active
  [][][][][][][]| 
@@ -500,29 +500,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 210--211
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 209--210
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 214--214
-[]\OT1/Crimson-TLF/b/n/12 Effect of Ex-ter-nal Field on the IV Char-ac-ter-is-tics through the Molec-u-lar Nano-
- []
-
-
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 232--233
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 231--232
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 236.
+(Font)              scaled to size 12.0pt on input line 235.
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 248--249
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 247--248
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 262--263
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 261--262
 [][][][][][][] 
  []
 
@@ -531,17 +526,17 @@ Overfull \hbox (8.54279pt too wide) has occurred while \output is active
  [][][][][][][]| 
  []
 
-[2] (d:/About/Curricula Vitae/CV.aux) ) 
+[2] (d:/Temples/Curricula Vitae/CV.aux) ) 
 Here is how much of TeX's memory you used:
  4506 strings out of 492649
- 61447 string characters out of 6133384
- 154104 words of memory out of 5000000
+ 61465 string characters out of 6133384
+ 154107 words of memory out of 5000000
  8324 multiletter control sequences out of 15000+600000
  23157 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,13n,43p,1032b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,13n,43p,1034b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-BoldItalic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "d:/About/Curricula Vitae/CV.pdf" (2 pages, 228803 bytes).
+Output written on "d:/Temples/Curricula Vitae/CV.pdf" (2 pages, 224986 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
