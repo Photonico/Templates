@@ -88,12 +88,12 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fc-english.def
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ot1.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ot1.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-ot1.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
@@ -114,4 +114,5 @@ INPUT c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-BoldItalic.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
