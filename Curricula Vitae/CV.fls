@@ -173,15 +173,6 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fc-english.def
 INPUT c:/texlive/2018/texmf-dist/tex/latex/fmtcount/fc-english.def
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ot1.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ot1.tfm
-INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c19rm.fd
-INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c19rm.fd
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/gbkhei/gbkhei75.tfm
-OUTPUT d:/Temples/Curricula Vitae/CV.pdf
-INPUT c:/texlive/2018/texmf-dist/tex/latex/xcjk2uni/cmap/c1975.cmap
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/gbkhei/gbkhei15.tfm
-INPUT c:/texlive/2018/texmf-dist/tex/latex/xcjk2uni/cmap/c1915.cmap
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/gbkhei/gbkhei12.tfm
-INPUT c:/texlive/2018/texmf-dist/tex/latex/xcjk2uni/cmap/c1912.cmap
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-ot1.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
@@ -195,9 +186,12 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-ot1.tfm
+OUTPUT d:/Temples/Curricula Vitae/CV.pdf
 INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ot1.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c19rm.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c19rm.fd
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong51.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/xcjk2uni/cmap/c1951.cmap
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong63.tfm
@@ -210,9 +204,6 @@ INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc
-INPUT c:/Windows/Fonts/simhei.ttf
-INPUT c:/Windows/Fonts/simhei.ttf
-INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb

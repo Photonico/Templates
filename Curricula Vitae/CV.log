@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.10)  27 MAY 2019 21:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.10)  28 MAY 2019 22:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -958,10 +958,6 @@ LaTeX Font Info:    Font shape `OT1/Crimson-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/b/n' will be
 (Font)              scaled to size 24.88pt on input line 45.
-LaTeX Font Info:    Try loading font information for C19+rm on input line 45.
- (c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c19rm.fd
-File: c19rm.fd 2018/01/28 v2.4.12 Chinese font definition (CTEX)
-)<<c1975.cmap>><<c1915.cmap>><<c1912.cmap>>
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 50.
 
@@ -1071,7 +1067,10 @@ Overfull \hbox (8.54279pt too wide) in paragraph at lines 262--263
 [][][][][][][] 
  []
 
-<<c1951.cmap>><<c1963.cmap>><<c1954.cmap>>
+LaTeX Font Info:    Try loading font information for C19+rm on input line 273.
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c19rm.fd
+File: c19rm.fd 2018/01/28 v2.4.12 Chinese font definition (CTEX)
+)<<c1951.cmap>><<c1963.cmap>><<c1954.cmap>>
 Overfull \hbox (8.54279pt too wide) has occurred while \output is active
  [][][][][][][]| 
  []
@@ -1082,18 +1081,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 15705 strings out of 492649
- 286945 string characters out of 6133384
- 355800 words of memory out of 5000000
- 19339 multiletter control sequences out of 15000+600000
- 551515 words of font info for 46 fonts, out of 8000000 for 9000
+ 15687 strings out of 492649
+ 286655 string characters out of 6133384
+ 355791 words of memory out of 5000000
+ 19328 multiletter control sequences out of 15000+600000
+ 550705 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,13n,46p,10437b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-BoldItalic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "d:/Temples/Curricula Vitae/CV.pdf" (2 pages, 260023 bytes).
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-BoldItalic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on "d:/Temples/Curricula Vitae/CV.pdf" (2 pages, 248908 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
