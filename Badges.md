@@ -60,6 +60,14 @@
 [![Mozilla License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseISC.svg)](https://opensource.org/licenses/ISC)
 ```
 
+### OFL
+
+[![OFL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/ISC)
+
+```markdown
+[![OFL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/ISC)
+```
+
 ### Anti 996 License
 
 [![NPL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
