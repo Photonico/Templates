@@ -62,10 +62,10 @@
 
 ### OFL
 
-[![OFL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/ISC)
+[![OFL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/OFL-1.1)
 
 ```markdown
-[![OFL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/ISC)
+[![OFL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/OFL-1.1)
 ```
 
 ### Anti 996 License
