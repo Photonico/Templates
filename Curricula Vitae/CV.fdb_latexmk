@@ -1,0 +1,22 @@
+# Fdb version 3
+["pdflatex"] 1647541904 "/home/lu/Repo/Templates/Curricula Vitae/CV.tex" "/home/lu/Repo/Templates/Curricula Vitae/CV.pdf" "CV" 1647541905
+  "/etc/texmf/web2c/texmf.cnf" 1617974667 40935 950c859ef6aa64cd9f8caa18792b2c7d ""
+  "/home/lu/Repo/Templates/Curricula Vitae/CV.aux" 1647541904 32 3985256e7290058c681f74d7a3565a19 ""
+  "/home/lu/Repo/Templates/Curricula Vitae/CV.tex" 1647541905 209 145ba6ac5091402aaa7a4eeedd714819 ""
+  "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/usr/share/texmf/tex/latex/base/article.cls" 1601675358 20145 aad8c3dd3bc36e260347b84002182bc2 ""
+  "/usr/share/texmf/tex/latex/base/size12.clo" 1601675358 8450 6fd3588c0e9d06f6f56c6cf4f7246466 ""
+  "/usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def" 1616101731 27164 3d5f7887a89df4eb2f6e86ba26ef3254 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1617974667 40935 950c859ef6aa64cd9f8caa18792b2c7d ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1647541369 603253 4820d6ff2ed6e3083e3780d61fd03ca0 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1645696835 2544844 2a2dd120672e0c64d800d69f37da2949 ""
+  "CV.aux" 1647541904 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "CV.tex" 1647541905 209 145ba6ac5091402aaa7a4eeedd714819 ""
+  (generated)
+  "CV.aux"
+  "/home/lu/Repo/Templates/Curricula Vitae/CV.pdf"
+  "/home/lu/Repo/Templates/Curricula Vitae/CV.log"
+  "CV.pdf"
+  "CV.log"
