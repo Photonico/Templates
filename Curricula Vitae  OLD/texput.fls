@@ -1,0 +1,5 @@
+PWD /home/lu/Repo/Templates/Curricula Vitae  OLD
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+OUTPUT /home/lu/Repo/Templates/Curricula Vitae  OLD/texput.log
