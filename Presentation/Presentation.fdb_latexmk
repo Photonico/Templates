@@ -1,0 +1,22 @@
+# Fdb version 3
+["pdflatex"] 1647543948 "/home/lu/Repo/Templates/Presentation/Presentation.tex" "/home/lu/Repo/Templates/Presentation/Presentation.pdf" "Presentation" 1647543952
+  "/etc/texmf/web2c/texmf.cnf" 1617974667 40935 950c859ef6aa64cd9f8caa18792b2c7d ""
+  "/home/lu/Repo/Templates/Presentation/Presentation.aux" 1647543948 32 3985256e7290058c681f74d7a3565a19 ""
+  "/home/lu/Repo/Templates/Presentation/Presentation.tex" 1647543952 87 1749ac082a614f1102f5026bb2b1c071 ""
+  "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/usr/share/texmf/tex/latex/base/report.cls" 1601675358 23204 74c91ecbcc47161218f25d9d0651c0f7 ""
+  "/usr/share/texmf/tex/latex/base/size12.clo" 1601675358 8450 6fd3588c0e9d06f6f56c6cf4f7246466 ""
+  "/usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def" 1616101731 27164 3d5f7887a89df4eb2f6e86ba26ef3254 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1617974667 40935 950c859ef6aa64cd9f8caa18792b2c7d ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1647542386 606543 498608edaeb72b052db99bf92b1e7324 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1645696835 2544844 2a2dd120672e0c64d800d69f37da2949 ""
+  "Presentation.aux" 1647543948 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Presentation.tex" 1647543952 87 1749ac082a614f1102f5026bb2b1c071 ""
+  (generated)
+  "/home/lu/Repo/Templates/Presentation/Presentation.pdf"
+  "Presentation.log"
+  "Presentation.pdf"
+  "/home/lu/Repo/Templates/Presentation/Presentation.log"
+  "Presentation.aux"
