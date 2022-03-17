@@ -5,4 +5,11 @@
 
 ![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg)
 
-This repository is used to store and publish my templates for curricula vitae, presentation, and so on.
+This repository is used to store and publish my templates for curricula vitae, presentation, and so on. I'm very happy if my templates are helpful for you.
+
+## Acknowledge
+
+Thank you for visiting.  
+
+Sincerely,  
+Luke
