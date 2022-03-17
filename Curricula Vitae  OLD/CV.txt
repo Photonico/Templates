@@ -3,7 +3,7 @@
 % Email: LukeNiu@outlook.com
 % GitHub: https://github.com/ConAntares
 
-\documentclass[12pt,a4paper,utf8]{report}
+\documentclass[12pt,a4paper]{report}
 \usepackage[dvipsnames]{xcolor}
 \usepackage{datetime}
 \usepackage{fancyhdr}
@@ -14,7 +14,6 @@
 \usepackage{tabto}
 \usepackage{crimson}    % serif font
 \usepackage{helvet}     % sans serif font
-\usepackage{ctex}       % Chinese support
 
 \geometry{left=2.0cm,right=2.0cm,top=2.0cm,bottom=2.0cm}
 \pagestyle{fancy}
@@ -270,7 +269,7 @@
 \vspace{0.4cm}
 
 \begin{center}\vspace{1.0cm}
-    % Updated \monthyeardate\today
+    Updated \monthyeardate\today
 \end{center}
 
 \end{document}
