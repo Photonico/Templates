@@ -96,10 +96,18 @@
 
 ### C++
 
-[![Made by C++](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Made by C++](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyCpp.svg)](https://isocpp.org/)
 
 ```markdown
-[![Made by C++](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Made by C++](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyCpp.svg)](https://isocpp.org/)
+```
+
+### C / C++
+
+[![Made by C++](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyCCpp.svg)](https://isocpp.org/)
+
+```markdown
+[![Made by C++](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyCCpp.svg)](https://isocpp.org/)
 ```
 
 ### Fortran
