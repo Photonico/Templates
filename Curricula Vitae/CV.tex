@@ -5,6 +5,7 @@
 
 \documentclass[12pt,a4paper]{report}
 
+%%%% Package invoking
 \usepackage[dvipsnames]{xcolor}         % Driver-independent color extensions.
 \usepackage{datetime}                   % Change format of \today with commands for current time.
 \usepackage{fancyhdr}                   % Control of page headers and footers.
@@ -13,9 +14,264 @@
 \usepackage{framed}                     % Framed or shaded regions that can break across pages.
 \usepackage{color}                      % Colour control.
 \usepackage{tabto}                      % "Tab" to a measured position in the line.
-\usepackage{crimson}                    % Crimson fonts.
+\usepackage{lmodern}
 \usepackage{helvet}                     % Helvetica fonts.
 
+\geometry{left=32pt, right=32pt, top=56pt, bottom=56pt}
+\pagestyle{fancy}
+\definecolor{shadecolor}{rgb}{0.0, 0.4, 0.7}            % Head background color, if you use this tample, please change this.
+\definecolor{subtitlecolor}{rgb}{0.4, 0.7, 0.8}         % Subhead background color, if you use this tample, please change this.
+%\definecolor{shadecolor}{rgb}{0.4, 0.3, 0.9}            % Head background color, if you use this tample, please change this.
+%\definecolor{subtitlecolor}{rgb}{0.7, 0.6, 1.0}         % Subhead background color, if you use this tample, please change this.
+\linespread{1.0}
+
+%%%% Your infomation
+\newcommand{\namefont}[1]{{\normalfont\bfseries\Huge{#1}}}
+\newcommand{\myname}{Alex Hamilton}
+\newcommand{\mydegree}{PhD Candidate in Physics}
+\newcommand{\myworkA}{Teaching Assistant on Analytical Mechanics}
+\newcommand{\myworkB}{Teaching Assistant on Quantum Mechanics}
+
+\newdateformat{monthyeardate}{\monthname [\THEMONTH] \THEYEAR}
+\renewcommand\headrulewidth{0.0pt}
+
+%%%% Head
+\fancyhead[C]{
+    \colorbox{shadecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(524, 12){
+        \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad CURRICULUM VITAE
+}}}}}}}
+\setlength{\headheight}{24pt}
+
 \begin{document}
-    Hello world!!
+%%  Title demonstration
+    \begin{center}
+        \begin{minipage}[t]{240pt}
+                \vspace{0pt}
+                \namefont{\centerline\myname}
+        \end{minipage}
+        \begin{minipage}[t]{240pt}
+            \vspace{0pt}
+            {\em{\mydegree}} \par
+        \end{minipage}
+    \end{center}
+    \begin{center}
+        \begin{minipage}[t]{240pt}
+            \begin{flushleft}
+                \vspace{0pt}
+                \quad Quantum Science Group \\
+                \quad The University of Sydney \\
+                \quad Sydney, New South Wales 2006, Australia \\
+            \end{flushleft}
+        \end{minipage}
+        \begin{minipage}[t]{240pt}
+            \begin{flushleft}
+                \vspace{0pt}
+                    Email: \textless yourname\textgreater @\textless YourEmailSite\textgreater.com \\
+                    Web: www.github.com/Photonico \\
+                    GitHub: www.github.com/Photonico \\
+            \end{flushleft}
+        \end{minipage}
+    \end{center}
+%%  Personal information demonstration
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Personal information
+    }}}}}}\end{minipage}\end{center}
+    \begin{center}
+        \begin{minipage}[t]{125pt}
+            \qquad \textbf{Gender:}\par
+            \qquad \textbf{Day of Birth:}\par
+            \qquad \textbf{Place of Birth:}\par
+            \qquad \textbf{Nationality:}\par
+        \end{minipage}
+        \begin{minipage}[t]{375pt}
+            Male \par
+            May 12, 1994 \par
+            Darlington, NSW 2008, Australia \par
+            The Commonwealth of Australia \par
+        \end{minipage}
+    \end{center}
+%%  Work information demonstration
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Work information
+    }}}}}}\end{minipage}\end{center}
+    \begin{center}
+        \begin{minipage}[t]{125pt}
+            \qquad \textbf{Current work:}\par
+            \qquad \par
+            \qquad \textbf{Office address:}\par
+            \qquad \textbf{Office phone:}\par
+        \end{minipage}
+        \begin{minipage}[t]{375pt}
+            {\myworkA} \par
+            {\myworkB} \par
+            Room 123 \par
+            0123-456789 \par
+        \end{minipage}
+    \end{center}
+%%  Research Interests
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Research Interests
+    }}}}}}\end{minipage}\end{center}
+    \begin{center}
+        \begin{minipage}[t]{460pt}
+            {\textbf{Quantum Computation:}} \par
+            \quad Details about your research interests on Quantum Computation. \par
+            \vspace{4pt}\par
+            {\textbf{Quantum Optics:}} \par
+            \quad Details about your research interests on Quantum Opitcs. 
+        \end{minipage} \par
+    \end{center}
+%%  Education
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Education
+    }}}}}}\end{minipage}\end{center}
+    \begin{center}\begin{minipage}[t]{460pt}
+        \textbf{The University of Sydney}
+        \hfill{\em{Jul. 2019 -- Present}}\par
+        \vspace{4pt}\quad\em{PhD of Science in Physics}
+    \end{minipage}\end{center}
+    \begin{center}
+        \begin{minipage}[t]{125pt}
+            \qquad \textbf{Subject:} \par
+            \qquad \textbf{Thesis:} \par
+            \qquad \textbf{GPA:} \par
+            \qquad \textbf{Supervisor:} \par
+        \end{minipage}
+        \begin{minipage}[t]{375pt}
+            \quad \textless Your Subject\textgreater \par
+            \quad \textless Your Thesis\textgreater \par
+            \quad 4.0 \par
+            \quad \textless Your Supervisor\textgreater  \par
+        \end{minipage}
+    \end{center}
+    \begin{center}\begin{minipage}[t]{460pt}
+        \textbf{The University of Melbourne}
+        \hfill{\em{Sep. 2015 -- Jun. 2019}}\par
+        \vspace{4pt}\quad\em{Bachelor of Science in Physics}
+    \end{minipage}\end{center}
+    \begin{center}
+        \begin{minipage}[t]{125pt}
+            \qquad \textbf{Subject:} \par
+            \qquad \textbf{Thesis:} \par
+            \qquad \textbf{GPA:} \par
+            \qquad \textbf{Supervisor:} \par
+        \end{minipage}
+        \begin{minipage}[t]{375pt}
+            \quad \textless Your Subject\textgreater \par
+            \quad \textless Your Thesis\textgreater \par
+            \quad 4.0 \par
+            \quad \textless Your Supervisor\textgreater  \par
+        \end{minipage}
+    \end{center}
+%% Expertise and Technical Strengths
+\begin{center}\begin{minipage}[t]{512pt}
+    \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+        \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Expertise
+    }}}}}}\end{minipage}\end{center}
+    \begin{center}
+        \begin{minipage}[t]{125pt}
+            \qquad \textbf{Programming::} \par
+            \qquad \textbf{Softwares:} \par
+            \qquad \textbf{Expertise:} \par
+            \qquad \par
+            \qquad \textbf{Language:} \par
+        \end{minipage}
+        \begin{minipage}[t]{375pt}
+            C/C++, Python, Julia, \LaTeX \par
+            Linux, Tensorflow, VASP, Octopus \par
+            Algorithms, Machine Learning, Computational Physics, Quantum Optics, Density Functional Theory  \par
+            English (Native), Ukrainian \par
+        \end{minipage}
+    \end{center}
+%% Work Experience
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Work Experience
+    }}}}}}\end{minipage}\end{center}
+    \begin{center}
+       \begin{minipage}[t]{460pt}
+            {\textbf{The University of Sydney:}} \par
+            \quad Teaching Assistant on Analytical Mechanics\hfill
+            {\em{Spring, 2019 and Spring, 2018}}\par
+            \vspace{4pt}\par
+            {\textbf{The University of Sydney:}} \par
+            \quad Teaching Assistant on College Physics\hfill
+            {\em{Autumn, 2018 and Autumn, 2017}}\par
+        \end{minipage}
+    \end{center}
+%% Research Experience
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Research Experience
+    }}}}}}\end{minipage}\end{center}
+    \begin{center}
+        \begin{minipage}[t]{460pt}
+            {\textbf{Research Experience 3:}} \hfill {\em{Sep. 2018 -- Jun. 2019 @ USYD}}\par
+            \quad Details about Research Experience 3
+            \vspace{4pt}\par
+            {\textbf{Research Experience 2:}} \hfill {\em{Apr. 2018 -- Mar. 2019 @ USYD}}\par
+            \quad Details about Research Experience 2
+            \vspace{4pt}\par
+            {\textbf{Research Experience 1:}} \hfill {\em{Dec. 2017 -- Apr. 2018 @ USYD}}\par
+            \quad Details about Research Experience 1
+        \end{minipage}
+     \end{center}
+%%  Publications    
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Publications
+    }}}}}}\end{minipage}\end{center}    
+    \begin{center}
+        \begin{minipage}[t]{460pt}
+            {\textbf{2021:}} \par
+            \quad Author*; {\em{Atricle Title}} XX Journal, XX, XXX (2021).\par
+            \vspace{4pt}\par
+            {\textbf{2020:}} \par
+            \quad Author*; {\em{Atricle Title}} XX Journal, XX, XXX (2020).\par
+            \vspace{4pt}\par
+            {\textbf{2019:}} \par
+            \quad Author*; {\em{Atricle Title}} XX Journal, XX, XXX (2019).\par
+        \end{minipage}
+     \end{center}
+%%  References and Activites
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad References and Activites
+    }}}}}}\end{minipage}\end{center}    
+    \begin{center}
+        \begin{minipage}[t]{460pt}
+            {\textbf{2021:}} \par
+            \quad \textless Activite Name 3 \textgreater @ \textless Loaction 3 \textgreater \par
+            \vspace{4pt}\par
+            {\textbf{2020:}} \par
+            \quad \textless Activite Name 2 \textgreater @ \textless Loaction 2 \textgreater \par
+            \vspace{4pt}\par
+            {\textbf{2019:}} \par
+            \quad \textless Activite Name 1 \textgreater @ \textless Loaction 1 \textgreater \par
+        \end{minipage}
+     \end{center}
+%%  Awards and Honors
+    \begin{center}\begin{minipage}[t]{512pt}
+        \colorbox{subtitlecolor}{\raisebox{0pt}[12.0pt][0.0pt]{\makebox(500, 10){
+            \textcolor{white}{\ttfamily\fontseries{b}\selectfont\leftline{\large{\quad Awards and Honors
+    }}}}}}\end{minipage}\end{center}    
+    \begin{center}
+        \begin{minipage}[t]{460pt}
+            {\textbf{2021:}} \par
+            \quad \textless Awards and Honors 3 \textgreater \par
+            \vspace{4pt}\par
+            {\textbf{2020:}} \par
+            \quad \textless Awards and Honors 2 \textgreater \par
+            \vspace{4pt}\par
+            {\textbf{2019:}} \par
+            \quad \textless Awards and Honors 1 \textgreater \par
+        \end{minipage}
+     \end{center}
+     \begin{center}\vspace{24pt}
+        Updated \monthyeardate \today
+    \end{center}
 \end{document}
