@@ -1,0 +1,51 @@
+PWD /home/lu/Repo/Templates/Tex Hello World
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/lu/Repo/Templates/Tex Hello World/hello.tex
+OUTPUT /home/lu/Repo/Templates/Tex Hello World/hello.log
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/article.cls
+INPUT /usr/share/texmf/tex/latex/base/size12.clo
+INPUT /usr/share/texmf/tex/latex/base/size12.clo
+INPUT /usr/share/texmf/tex/latex/base/size12.clo
+INPUT /usr/share/texmf/tex/latex/base/size12.clo
+INPUT /usr/share/texmf/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /home/lu/Repo/Templates/Tex Hello World/hello.aux
+INPUT /home/lu/Repo/Templates/Tex Hello World/hello.aux
+INPUT /home/lu/Repo/Templates/Tex Hello World/hello.aux
+OUTPUT /home/lu/Repo/Templates/Tex Hello World/hello.aux
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsy6.tfm
+OUTPUT /home/lu/Repo/Templates/Tex Hello World/hello.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/lu/Repo/Templates/Tex Hello World/hello.aux
+INPUT /usr/share/texmf/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb
